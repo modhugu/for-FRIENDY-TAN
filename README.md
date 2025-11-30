@@ -1,5 +1,8 @@
 # DevOps Intern Final Project
 
+![CI](https://github.com/modhugu/for-FRIENDY-TAN/actions/workflows/ci.yml/badge.svg)
+
+
 **Name:** Friendy Tan  
 **Date:** November 29, 2025  
 
